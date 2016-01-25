@@ -13,7 +13,7 @@ module.exports = function(config) {
     files: [
       'https://ajax.googleapis.com/ajax/libs/angularjs/1.3.12/angular.js',
       'https://ajax.googleapis.com/ajax/libs/angularjs/1.3.12/angular-mocks.js',
-      'http://cdnjs.cloudflare.com/ajax/libs/lodash.js/3.3.0/lodash.js',
+      'http://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.0.1/lodash.js',
       'src/restangular.js',
       'test/*.js'
     ],
